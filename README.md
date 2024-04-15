@@ -2,6 +2,7 @@
 - Young computer science and microelectronics student.
 - Attracted by embedded systems.
 - Enjoyer of C++ and Arduino.
+- Rust kiddo.
   
 # Also work on :
 https://github.com/AREM-Projets
