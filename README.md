@@ -1,7 +1,7 @@
 # 👋 Hello it's me Super Zeug on the PS4 WOOOOOOHOOOOOO !
 - Young computer science and microelectronics student.
 - Attracted by embedded systems.
-- Enjoyer of C++ and Arduino.
+- Enjoyer of C and Arduino.
 - Rust kiddo.
   
 # Also work on :
